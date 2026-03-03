@@ -28,7 +28,7 @@
     "pbkdf2": "^3.0.14",
     "randomstring": "^1.1.5",
     "readline-sync": "^1.4.9",
-    "serialize-javascript": "1.0.0",
+    "serialize-javascript": "7.0.3",
     "lodash": "4.17.4",
     "serve-favicon": "~2.4.5",
     "minimist": "0.0.8",
